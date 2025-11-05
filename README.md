@@ -3,18 +3,18 @@
 Um projeto simples em Python desenvolvido para a disciplina de **Algoritmos**, com o objetivo de aplicar conceitos de **listas bidimensionais, funções, 
 estruturas condicionais e loops**.
 
-## 🎯 Objetivo
+##  Objetivo
 O jogador deve abrir as células do tabuleiro evitando as minas.  
 Cada célula aberta mostra quantas minas existem nas 8 posições vizinhas.
 
-## ⚙️ Regras
+##  Regras
 - O tabuleiro é 5x5.
 - Há 5 minas espalhadas aleatoriamente.
 - O jogador escolhe linha e coluna.
 - Se abrir uma mina → **Game Over**
 - Se abrir todas as células seguras → **Vitória!**
 
-## 🧠 Conceitos utilizados
+## Conceitos utilizados
 - Matrizes (listas de listas)
 - Estruturas de repetição
 - Funções
