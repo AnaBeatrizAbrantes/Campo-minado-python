@@ -1,6 +1,6 @@
 # Campo Minado em Python
 
-Um projeto simples em Python desenvolvido para a disciplina de **Algoritmos**, com o objetivo de aplicar conceitos de **listas bidimensionais, funções, 
+Um projeto simples em Python desenvolvido para a disciplina de **Algoritmos**, com o objetivo de aplicar conceitos de **listas, funções, 
 estruturas condicionais e loops**.
 
 ##  Objetivo
