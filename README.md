@@ -16,9 +16,9 @@ Cada célula aberta mostra quantas minas existem nas 8 posições vizinhas.
 
 ## Conceitos utilizados
 - Matrizes (listas de listas)
-- Estruturas de repetição
+- Estruturas de Repetição
 - Funções
-- Tratamento de exceções (`try/except`)
+- Tratamento de Exceções (`try/except`)
 - Aleatoriedade (`random`)
 
 ## Como executar
