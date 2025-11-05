@@ -21,7 +21,7 @@ Cada célula aberta mostra quantas minas existem nas 8 posições vizinhas.
 - Tratamento de exceções (`try/except`)
 - Aleatoriedade (`random`)
 
-## ▶️ Como executar
+## Como executar
 1. Certifique-se de ter o Python instalado.
 2. Baixe o arquivo `campo_minado.py`
 3. No terminal, execute:
