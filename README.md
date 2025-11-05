@@ -11,7 +11,7 @@ Cada célula aberta mostra quantas minas existem nas 8 posições vizinhas.
 - O tabuleiro é 5x5.
 - Há 5 minas espalhadas aleatoriamente.
 - O jogador escolhe linha e coluna.
-- Se abrir uma mina → **Game Over**
+- Se abrir uma mina → **Fim de jogo**
 - Se abrir todas as células seguras → **Vitória!**
 
 ## Conceitos utilizados
